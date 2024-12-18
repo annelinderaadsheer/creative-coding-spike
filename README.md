@@ -14,6 +14,7 @@ Na implementatie heb ik getest en een pull-request opgesteld. Mijn project heb i
 
 ## [Spooky brutalist scroll-driven animation](https://github.com/fdnd-agency/red-pers/issues/50)
 
+https://50-spooky-brutalist-scroll-driven.netlify.app
 
 ## [View transition API animation](https://github.com/fdnd-agency/red-pers/issues/60)
 
