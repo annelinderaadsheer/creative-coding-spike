@@ -18,7 +18,11 @@ https://50-spooky-brutalist-scroll-driven.netlify.app
 
 ## [View transition API animation](https://github.com/fdnd-agency/red-pers/issues/60)
 
+https://view-transition-animation-annelinde.netlify.app
+
 ## [Glinsterende kitsch kerstsfeer met JS audio API animation](https://github.com/fdnd-agency/red-pers/issues/57)
+
+https://57-glinsterende-kitsch-kerstsfeer.netlify.app
 
 ## Licentie
 
